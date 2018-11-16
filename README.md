@@ -1,0 +1,2 @@
+# rejson
+redis storage json
